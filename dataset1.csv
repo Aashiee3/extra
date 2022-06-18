@@ -1,0 +1,31 @@
+S.No.,Category,Rainfall LL,Rainfall UL,Temperature LL,Temperature UL,Plants
+1,Vegetables,600,1200,1,10,Garlic
+2,Vegetables,1000,1500,21,30,Radish
+3,Vegetables,950,1550,15,22,Carrots 
+4,Vegetables,250,300,15,18,Lettuce
+5,Vegetables,400,500,10,30,Peas
+6,Vegetables,650,1500,21,24,Tomato 
+7,Vegetables,950,1550,15,20,Potato 
+8,Vegetables,889,3048,10,29,Lemon
+9,Vegetables,850,1200,20,25,Chilli
+10,Vegetables,600,1000,13,21,Brinjal
+11,Decorative ,,,18,20,Marigold
+12,Decorative ,75,225,15,28,Rose
+13,Decorative ,500,1500,9,11,Hyacinth
+14,Decorative ,400,1000,4,29,Snake Plant
+15,Decorative ,1000,5000,18,23,Begonia
+16,Decorative ,1000,2000,4,26,Bougainvillea
+17,Decorative ,1500,2500,15,30,Money plant
+18,Decorative ,300,1400,20,30,Lavender
+19,Decorative ,40,860,18,24,Jade Plant
+20,Decorative ,200,2300,30,35,Adenium
+21,Medicinal,1000,1200,13,27,Aloe vera
+22,Medicinal,400,1500,25,35,Fenugreek
+23,Medicinal,1250,1500,23,29,Ginger
+24,Medicinal,1000,2000,20,40,Mint
+25,Medicinal,80,700,25,40,Tulsi
+26,Medicinal,60,100,17,27,Coriander
+27,Medicinal,1400,1800,18,30,Curry leaf
+28,Medicinal,45,475,-10,-5,Gotu Kola
+29,Medicinal,400,1000,15,21,Thyme
+30,Medicinal,500,1500,20,30,Rosemary 
